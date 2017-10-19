@@ -1,5 +1,5 @@
 # Hiptest issue tracker
-This repository tracks bugs and feature requests for Hiptest, BDD-enthusiastic testing platform, for Agile and DevOps teams. 
+This repository tracks bugs and feature requests for Hiptest, BDD-enthusiastic testing platform for Agile and DevOps teams. 
 To open a new support issue, click on the Issues tab and then the New Issue button.
 
 ## Before opening a new issue
