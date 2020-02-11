@@ -1,11 +1,11 @@
 <!--
-Thanks for reporting issues back to Hiptest!
+Thanks for reporting issues back to CucumberStudio!
 
-This is the bug tracker for Hiptest platform. If you have any issues with the hiptest-publisher, go check its own issue tracker (https://github.com/hiptest/hiptest-publisher/issues)
+This is the bug tracker for CucumberStudio platform. If you have any issues with the hiptest-publisher, go check its own issue tracker (https://github.com/hiptest/hiptest-publisher/issues)
 
-To make it possible for us to help you please fill out below information carefully. 
+To make it possible for us to help you please fill out below information carefully.
 -->
- 
+
 ### Steps to reproduce
 1.
 2.
